@@ -1,6 +1,6 @@
-#Workshop Chapter 2
+# Workshop Chapter 2
 
-##Quiz
+## Quiz
 1. What is the term for a group of one or more C statements enclosed in braces?
 
 Block
@@ -43,3 +43,9 @@ header files.
 10. What is an include file?
 
 An include file is an separate disk file that contains information that can be used by your program or the compiler.
+
+
+## Used git commands
+> git rm -r --cached .
+> git add .
+> git commit - m "Message here"
