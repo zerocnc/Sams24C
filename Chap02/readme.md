@@ -47,5 +47,7 @@ An include file is an separate disk file that contains information that can be u
 
 ## Used git commands
 > git rm -r --cached .
+
 > git add .
+
 > git commit - m "Message here"
