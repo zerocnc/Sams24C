@@ -1,6 +1,4 @@
-*.log
-*.o
+*
 !*.c
-*.exe
-*.obj
+!*.md
 Chap02/list
